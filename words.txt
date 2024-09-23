@@ -1,0 +1,22 @@
+A = alexa
+W = weather
+C = call
+D = date
+del = delete
+E = how
+F = is
+nothing = nothing
+space = space
+N = news
+M = movie
+
+P = play
+J = joke
+T = time
+U = tell
+V = a
+S = set
+Y = timer
+L = turn lights
+O = on
+G = off
