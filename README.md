@@ -4,6 +4,8 @@ A deep learning-based gesture recognition system that enables individuals with h
 
 ---
 
+![System Architecture](https://ieeexplore-ieee-org.ezproxy.rit.edu/mediastore/IEEE/content/media/9169741/9182787/9183179/105-fig-1-source-large.gif)
+
 ## 🎯 Objective
 
 To create a real-time hand gesture recognition system that:
